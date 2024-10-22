@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyTime</string>
+    <string name="until_we_can_manage_time_we_can_manage_nothing_else">Until we can manage time,we can manage nothing else</string>
+    <string name="add_task">Add task</string>
+    <string name="get_start">Get Start</string>
+    <string name="welcome_back">Welcome\nBack</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_a_task">Enter a task</string>
+    <string name="enter_task_description">Enter task description</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="add_task_">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="countdown_timer">Countdown Timer</string>
+</resources>
